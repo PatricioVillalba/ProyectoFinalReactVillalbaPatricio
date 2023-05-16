@@ -10,7 +10,7 @@ const CartWidget = (props) => {
       <IconButton aria-label="Carrito de compras">  
         <Badge badgeContent={
             props.numero
-        } color="secondary">
+        } color="secondary"> 
           <ShoppingCartIcon style={{ color: 'white' }}/>
         </Badge>
       </IconButton>

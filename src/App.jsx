@@ -14,13 +14,8 @@ class App extends React.Component {
   render() {
     return (
       <div>
-       {/* <Header 
-          title="aca iria el titulo" 
-          subtitle="aca iria el subtitulo"
-        /> */}
         <NavBar/>
         <ItemListContainer greeting="Bienvenido(a) a nuestra tienda en línea." />
-
       </div>
     );
   }

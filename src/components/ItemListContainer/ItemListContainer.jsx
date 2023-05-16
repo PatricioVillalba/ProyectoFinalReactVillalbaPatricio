@@ -7,6 +7,6 @@ const ItemListContainer  = ({ greeting }) => {
       <p>Inicia sesión para disfrutar de una experiencia personalizada.</p>
     </div>
   )
-}
+} 
 
 export default ItemListContainer

@@ -9,7 +9,6 @@ const Header = (props) => {
       <h1>{props.title}</h1>
       <h2>{props.subtitle}</h2>
       <button type="button" class="btn btn-primary">Primary</button>
-
     </div>
   )
 }
