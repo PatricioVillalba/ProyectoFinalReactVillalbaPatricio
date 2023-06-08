@@ -2,8 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap";
 import { Badge, IconButton} from "@mui/material";
-import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 const CartWidget = (props) => {
   return (
     <div>
